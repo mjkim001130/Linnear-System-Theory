@@ -3,3 +3,4 @@
 
 The Lecture by Prof. Han UL Yoon of [HAN LAB](https://hanlabhome.wordpress.com/)
 
+These solutions are my own and may contain errors. Copyright for the correct solutions belongs to the assignment creators, so I do not provide them.
